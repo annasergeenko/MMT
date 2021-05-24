@@ -1,5 +1,5 @@
 # MMT
-A simulation environment for multisensor-multitarget problem
+A simulation environment for multisensor-multitarget problem.
 
 ## How to use the software
 
