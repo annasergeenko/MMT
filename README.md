@@ -18,5 +18,6 @@ An example of the app layout
 ![Dispersion](https://user-images.githubusercontent.com/61468945/119403957-cd22a880-bce7-11eb-9c95-ed3c5af25816.png)
 
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit/)
 
