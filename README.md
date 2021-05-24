@@ -34,9 +34,9 @@ in the MathWorks Documentation Center.
 
 ## Screenshot
 
-An example of the app layout
+The example of the app layout is provided.
 
-![Dispersion](https://user-images.githubusercontent.com/61468945/119405628-399ea700-bcea-11eb-996f-0b703fb07d41.png){:height="50%" width="50%"}
+![Dispersion](https://user-images.githubusercontent.com/61468945/119405628-399ea700-bcea-11eb-996f-0b703fb07d41.png)
 
 ## License
 
