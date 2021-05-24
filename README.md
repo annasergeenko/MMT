@@ -1,7 +1,7 @@
 # MMT
 A simulation environment for multisensor-multitarget problem
 
-How to use the software
+## How to use the software
 
 for_redistribution folder to users who do not have MATLAB® installed on their machines.
 
