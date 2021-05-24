@@ -14,6 +14,7 @@ The folder ```for_redistribution_files_only``` contains specific files that enab
 ## Screenshot
 
 An example of the app layout
+
 ![Dispersion](https://user-images.githubusercontent.com/61468945/119403957-cd22a880-bce7-11eb-9c95-ed3c5af25816.png)
 
 ## License
