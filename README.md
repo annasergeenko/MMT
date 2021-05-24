@@ -10,3 +10,8 @@ The folder contains the file MyAppInstaller_web.exe that installs the packaged a
 2. For users who do have MATLAB Runtime
    ```for_redistribution_files_only```
 This folder contains specific files that enable use of the packaged application on the target platform with the target language.
+
+## Screenshot
+
+![Dispersion](https://user-images.githubusercontent.com/61468945/119403957-cd22a880-bce7-11eb-9c95-ed3c5af25816.png)
+
