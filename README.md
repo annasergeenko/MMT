@@ -1,4 +1,3 @@
-![Dispersion](https://user-images.githubusercontent.com/61468945/119405628-399ea700-bcea-11eb-996f-0b703fb07d41.png)
 # MMT
 A simulation environment for multisensor-multitarget problem.
 
@@ -37,7 +36,7 @@ in the MathWorks Documentation Center.
 
 An example of the app layout
 
-![Dispersion](https://user-images.githubusercontent.com/61468945/119403957-cd22a880-bce7-11eb-9c95-ed3c5af25816.png)
+![Dispersion](https://user-images.githubusercontent.com/61468945/119405628-399ea700-bcea-11eb-996f-0b703fb07d41.png){:height="50%" width="50%"}
 
 ## License
 
